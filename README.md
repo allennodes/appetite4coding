@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @appetite4coding
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning POSTGRES SQL and PYTHON FOR DATA SCIENCE 
-- 💞️ I’m looking to collaborate on Projects and challenges that will help sharpen my skills.
+- 👋 Hi, I’m @appetite4coding, fullname: Allen Nkemakolam
+- 👀 I am a software developer, data analyst and ML engineer.
+- 🌱 My knowledge areas are PostgreSQL, pythn, HTML, CSS, JavaSCRIPT 
+- 💞️ I’m looking to collaborate on Projects and challenges that drive business solutions.
 - 📫 How to reach me is on my email @nkemakolamallen@gmail.com
 
 <!---
