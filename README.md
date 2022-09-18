@@ -27,6 +27,7 @@ I'm a Data Scientist, who currently works as a Data Science Associate at [Progno
 - 📫 You can [view my resume](https://drive.google.com/file/d/1H6joD2PBZ8WpKS4Vnaz8UV3KVv94q6dk/view?usp=sharing) and contact me by emailing nkemakolamallen@gmail.com.
 
 ---
-
+<!-- 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
+ -->
