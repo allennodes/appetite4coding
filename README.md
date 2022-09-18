@@ -21,7 +21,7 @@ I'm a Data Scientist, who currently works as a Data Science Associate at [Progno
 - 💡 Fun fact: I am a meticulous Engineer accomplished in compiling, transforming and analyzing complex information through software. Expert in machine learning and large dataset management. Demonstrated success in identifying relationships and building solutions to business problems.
 - 🌱 My knowledge areas are PostgreSQL, python, HTML, CSS, JavaSCRIPT. 
 - 💡I graduated from One campus Academy [Professional Data Science program](https://onecampusacademy.com/public/) Class of 2022.
-- 🌱 I’m currently learning (DJANGO) Python at AltSchool.
+- 🌱 I’m currently learning (DJANGO) Python at [AltSchool](https://altschoolafrica.com/).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Analyst/ML Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1H6joD2PBZ8WpKS4Vnaz8UV3KVv94q6dk/view?usp=sharing) and contact me by emailing nkemakolamallen@gmail.com.
