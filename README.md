@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Website Badge](https://img.shields.io/badge/-Codingappetit.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=#)](#) [![Linkedin Badge](https://img.shields.io/badge/--blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nkemakolam-allen-appetite4coding)](https://www.linkedin.com/in/nkemakolam-allen-appetite4coding) [![Twitter Badge](https://img.shields.io/badge/-@CodingAppetit-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CodingAppetit?t=hcmc_-GkCZ9OHOoGKuPBPA&s=09)](https://twitter.com/CodingAppetit?t=hcmc_-GkCZ9OHOoGKuPBPA&s=09)
 
-I'm a Data Scientist, who currently works as a Data Science Associate at [Prognoz AI](https://https://www.prognozai.com/). I'm passionate about sharing knowledge, documentation,dashboards, web engineering.
+I'm a Data Scientist, who currently works as a Data Science Associate at [Prognoz AI](https://prognozai.com/). I'm passionate about sharing knowledge, documentation,dashboards, web engineering.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
