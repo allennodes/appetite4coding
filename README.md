@@ -17,7 +17,7 @@ I'm a Data Scientist, who currently works as a Data Science Associate at [Progno
 
 - 😊 Pronouns: He/him
 - 👋 Hi, I am Allen Nkemakolam
-- 👀A chemical Engineer transitioned into Tech. Now currently a software Engineer(Python), data analyst and ML engineer where both Niches have been beneficial in problem solving. I am also a seasoned Forex trader by day and by night😊.  
+- 👀A chemical Engineer transitioned into Tech. Now currently a software Engineer(FrontEnd), data analyst and ML engineer where both Niches have been beneficial in problem solving. I am also a seasoned Forex trader by day and by night😊.  
 - 💡 Fun fact: I am a meticulous Engineer accomplished in compiling, transforming and analyzing complex information through software. Expert in machine learning and large dataset management. Demonstrated success in identifying relationships and building solutions to business problems.
 - 🌱 My knowledge areas are PostgreSQL, python, HTML, CSS, JavaSCRIPT. 
 - 💡I graduated from [One campus Academy Professional Data Science program](https://onecampusacademy.com/public/) Class of 2022.
